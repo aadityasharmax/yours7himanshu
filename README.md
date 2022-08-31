@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am currently in first year of one of the renowed college of Meerut.
+Please help me so that I can get successful in my journey.
 
 <!--
 **yours7himanshu/yours7himanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Nothinhg
 - 📫 How to reach me: By github
 - 😄 Pronouns: ...he/him
-- I am currently in first year of a renowed Engineering College of Meeerut.
+
