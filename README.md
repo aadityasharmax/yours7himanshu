@@ -1,6 +1,9 @@
 ### Hi there 👋
-I am currently in first year of one of the renowed college of Meerut.
-Please help me so that I can get successful in my journey.
+Himanshu Dinkar this side, Currently I am in first year of a renowed college of Meerut ( Btech CSE ).
+Basically I have a great intrest towards C and applications of C Language.
+Right now i am learing from basics and my aim is to enhance my skils  and prsue my life as a brilliant software engineer.
+I would like if any senior will guide me during my journey.
+
 
 <!--
 **yours7himanshu/yours7himanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
