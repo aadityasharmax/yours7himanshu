@@ -1,4 +1,4 @@
-### Hi there 👋
+### WhatzUp! Guys 👋
 Himanshu Dinkar this side, Currently I am in first year of a renowed college of Meerut ( Btech CSE ).
 Basically I have a great intrest towards C and applications of C Language.
 Right now i am learning from basics and my aim is to enhance my skils  and persue my life as a brilliant software engineer.
